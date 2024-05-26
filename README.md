@@ -40,19 +40,27 @@ Pour cloner et exécuter ce projet, suivez ces étapes :
 
 1. Clonez le dépôt :
 
-``git clone https://github.com/najath73/my-personal-blog.git\
+```
+git clone https://github.com/najath73/my-personal-blog.git
+```
 
 2. Accédez au répertoire du projet :
 
-``cd my-personal-blog\
+```
+cd my-personal-blog
+```
 
 3. Installez les dépendances :
 
-``npm install\
+```
+npm install
+```
 
 4. Lancez le projet :
 
-``npm start\
+```
+npm start
+```
 
 
 Après avoir exécuté `npm start`, le projet sera lancé et accessible via `localhost:3000` dans votre navigateur.
